@@ -191,14 +191,10 @@ button.datepick-cmd {
 }
 .datepick-month a {
 	display: block;
-    background-color: #ebebeb;
     color: #000;
     text-decoration: none;
-    position: absolute;
-    top: 0px;
-    left: 0px;
     width: 100%;
-    padding: 8px;
+    padding: 0px;
     outline: none;
 }
 .datepick-month th span {
@@ -216,9 +212,10 @@ button.datepick-cmd {
     top: 0px;
     left: 0px;
     width: 100%;
-    padding: 8px;
+    padding: 23% 0px;
     outline: none;
     box-sizing: border-box;
+    height: 100%;
 }
 .datepick-month td span {
 	color: #888;
