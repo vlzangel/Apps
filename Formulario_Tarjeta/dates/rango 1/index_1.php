@@ -68,7 +68,7 @@
 				color: #000;
 			}
 
-			#item_24_8_2017:before
+			#item_16_8_2017:before
 			{
 				content: "";
 			    position: absolute;
@@ -78,7 +78,7 @@
 			    height: 0;
 			    border-top: 2.5em solid #C96259;
 			    border-right: 2.5em solid transparent;
-			    z-index: -10;
+			    z-index: 0;
 			    opacity: .75;
 			}
 		</style>
